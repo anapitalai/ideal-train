@@ -1,0 +1,1 @@
+{"homepage":"https://anapitalai.github.io/ideal-train","name":"gdal2tiles","version":"1.0.0","description":"","main":"index.js","scripts":{"deploy":"gh-pages -D build"},"repository":{"type":"git","url":"clear"},"author":"","license":"ISC","devDependencies":{"gh-pages":"^5.0.0"}}
